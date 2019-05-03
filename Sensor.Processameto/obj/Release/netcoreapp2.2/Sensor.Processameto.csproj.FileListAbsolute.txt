@@ -1,0 +1,12 @@
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\bin\Release\netcoreapp2.2\Sensor.Processameto.deps.json
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\bin\Release\netcoreapp2.2\Sensor.Processameto.runtimeconfig.json
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\bin\Release\netcoreapp2.2\Sensor.Processameto.runtimeconfig.dev.json
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\bin\Release\netcoreapp2.2\Sensor.Processameto.dll
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\bin\Release\netcoreapp2.2\Sensor.Processameto.pdb
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\obj\Release\netcoreapp2.2\Sensor.Processameto.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\obj\Release\netcoreapp2.2\Sensor.Processameto.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\obj\Release\netcoreapp2.2\Sensor.Processameto.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\obj\Release\netcoreapp2.2\Sensor.Processameto.AssemblyInfo.cs
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\obj\Release\netcoreapp2.2\Sensor.Processameto.dll
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\obj\Release\netcoreapp2.2\Sensor.Processameto.pdb
+C:\Users\willi\source\repos\Sensor.Processameto\Sensor.Processameto\bin\Release\netcoreapp2.2\Settings.job
